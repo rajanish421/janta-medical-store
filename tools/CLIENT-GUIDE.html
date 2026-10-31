@@ -1,0 +1,32 @@
+<!DOCTYPE html><html lang="hi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Website chalane ki guide | Janta Medical Store</title>
+<style>body{font:17px/1.7 system-ui,"Noto Sans Devanagari",sans-serif;max-width:780px;margin:auto;padding:20px;color:#12332c}h1{color:#0f5c4d}h2{color:#0f5c4d;border-bottom:2px solid #e6f4ec;padding-bottom:4px;margin-top:28px}code{background:#e6f4ec;padding:1px 6px;border-radius:4px}.box{background:#fff3cd;padding:10px 14px;border-radius:8px}li{margin:4px 0}@media print{body{font-size:14px}}</style></head><body>
+<h1>Janta Medical Store: website kaise chalayein</h1>
+<p>Website ka sara roz ka kaam <b>Google Sheet</b> se hota hai. Code kholne ki zarurat nahi.</p>
+<h2>1. Ek baar ka setup (10 minute)</h2><ol>
+<li>Drive mein <code>janta-medical-sheet-template.xlsx</code> upload karein, kholkar <b>File → Save as Google Sheets</b> karein.</li>
+<li>Do tab hain: <b>Stock</b> aur <b>Blog</b>.</li>
+<li><b>Share</b> button dabao → General access → <b>Anyone with the link</b> → <b>Viewer</b> → Done. (Sheet mein sirf dawa/blog ka data rakho, koi personal data nahi.)</li>
+<li><b>Stock</b> tab kholo, browser ke address bar ka poora link copy karo (<code>https://docs.google.com/spreadsheets/d/…/edit?gid=…</code>) aur <code>config.js</code> mein <code>sheetCsv:""</code> ke andar daalo.</li>
+<li><b>Blog</b> tab kholo, uska <b>alag</b> link copy karke <code>blogCsv:""</code> mein daalo (dono ka gid alag hota hai).</li>
+<li>Purana tareeka (Publish to web → CSV) bhi chalta hai, par wo file se kholne par kabhi-kabhi "Failed to fetch" deta hai.</li>
+<li><code>config.js</code> hosting par upload kar do. Bas, ab sab kuch Sheet se chalega.</li></ol>
+<h2>2. Roz ka kaam: dawa ka stock</h2><ul>
+<li>Dawa khatam hui to <b>Stock</b> tab mein Available ko <b>No</b>, aayi to <b>Yes</b>. Phone ke Google Sheets app se bhi ho jata hai.</li>
+<li><b>Price</b> mein sirf number likho, jaise <code>15</code>. Website par apne aap <code>₹ 15</code> dikhega. Khali chhodo to daam nahi dikhega.</li>
+<li>Nayi dawa: sabse neeche nayi line likho.</li>
+<li>Pakka nahi pata to <b>No</b> rakho.</li></ul>
+<h2>3. Roz ka kaam: ek blog / sehat salah</h2><p><b>Blog</b> tab mein neeche nayi line jodein:</p>
+<ul><li><b>Date</b>: jaise <code>2026-11-02</code>. Aage ki date likhoge to post usi din dikhegi (aap ek hafte ki pehle likh sakte ho).</li>
+<li><b>Type</b> (dropdown): <b>Tip</b> = sehat tip · <b>Pehchan</b> = bimari kaise pehchanein · <b>Quote</b> = doctor/sant ka vichar · <b>Lekh</b> = lamba lekh.</li>
+<li><b>Title</b>: heading (Quote ho to wahi vakya likho).</li>
+<li><b>Details</b>: baat likho. Har point nayi line mein <code>- </code> se shuru karo (nayi line = Alt+Enter).</li>
+<li><b>By</b>: kisne likha / kaha.</li></ul>
+<div class="box"><b>Dhyan:</b> bimari ke lakshan likhte waqt aakhir mein "doctor ko dikhayein" zaroor likho. Dawa ki matra (dose) kabhi mat likho. Quote tabhi daalo jab aapko pakka ho ki wo usi ne kaha hai, galat naam se quote daalne se bachein.</div>
+<p>Post 1-5 minute mein website ke <b>"रोज़ की सेहत सलाह"</b> section aur <code>health-tips/daily.html</code> par dikhti hai.</p>
+<h2>4. Kuch gadbad ho to</h2><ul>
+<li><b>Sabse aasan jaanch:</b> website ke folder mein <code>check.html</code> kholo. Wo Stock aur Blog dono link jaanch kar batata hai ki kya galat hai (link, tab, columns, date).</li>
+<li>Website ke link ke aakhir mein <code>?debug=1</code> lagao (jaise <code>index.html?debug=1</code>). Search box ke paas likha aayega ki Sheet se kitni dawaiyan load hui.</li>
+<li>"load nahi hui" likha ho to: link <b>CSV</b> format ka hai? Publish to web ON hai? Stock wali <b>sahi tab</b> publish hui hai?</li>
+<li>Sabhi dawaiyan ek hi tab (Stock) mein rakho, alag-alag tab mein nahi.</li></ul>
+<h2>5. Website ki files kab badalni padti hain?</h2><p>Sirf tab, jab <code>config.js</code> (naam, phone, address, photo, reviews) badalna ho. Stock aur blog ke liye kabhi nahi.</p>
+</body></html>

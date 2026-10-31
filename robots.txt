@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /tools/
+Disallow: /check.html
+Sitemap: https://www.example.com/sitemap.xml

@@ -1,0 +1,161 @@
+[
+ {
+  "slug": "bukhar-mein-kya-karein",
+  "hi": {
+   "title": "बुखार में घर पर क्या करें और डॉक्टर के पास कब जाएं",
+   "desc": "कसया में बुखार हो तो घरेलू देखभाल, ज़रूरी सावधानियां और डॉक्टर को दिखाने के संकेत।",
+   "icon": "🌡️",
+   "intro": "मौसम बदलते ही बुखार आम हो जाता है। हर बुखार खतरनाक नहीं होता, पर कुछ संकेतों को अनदेखा नहीं करना चाहिए।",
+   "tips": [
+    "थर्मामीटर से बुखार नापें, अंदाज़े पर भरोसा न करें।",
+    "खूब पानी, नारियल पानी, ORS और दाल का पानी लें।",
+    "आराम करें और हल्का खाना खाएं।",
+    "ढीले सूती कपड़े पहनें, बहुत मोटा कंबल न ओढ़ें।",
+    "बुखार की दवा उम्र और वज़न के हिसाब से ही लें। मात्रा फार्मासिस्ट से पूछें।"
+   ],
+   "red": "3 दिन से ज्यादा बुखार, 103°F से ऊपर, दौरे, सांस फूलना, बहुत सुस्ती, शरीर पर दाने या छोटे बच्चे और गर्भवती को बुखार हो तो तुरंत डॉक्टर को दिखाएं।"
+  },
+  "en": {
+   "title": "What to Do at Home for Fever, and When to See a Doctor",
+   "desc": "Home care for fever in Kasia, key precautions and the warning signs that need a doctor.",
+   "icon": "🌡️",
+   "intro": "Fever is common when the weather changes. Not every fever is dangerous, but some signs should never be ignored.",
+   "tips": [
+    "Measure the temperature with a thermometer instead of guessing.",
+    "Drink plenty of water, coconut water, ORS and dal water.",
+    "Rest and eat light food.",
+    "Wear loose cotton clothes and avoid heavy blankets.",
+    "Take fever medicine only as per age and weight. Ask the pharmacist about the right amount."
+   ],
+   "red": "Fever for more than 3 days, above 103°F, seizures, breathlessness, extreme weakness, rashes, or any fever in a small child or pregnant woman: see a doctor immediately."
+  }
+ },
+ {
+  "slug": "sugar-ke-marijon-ke-liye-tips",
+  "hi": {
+   "title": "शुगर (डायबिटीज़) के मरीज़ ये 6 बातें ज़रूर ध्यान रखें",
+   "desc": "डायबिटीज़ में खान-पान, दवा, जांच और पैरों की देखभाल की आसान जानकारी।",
+   "icon": "🩸",
+   "intro": "शुगर पूरी तरह दवा से नहीं, रोज़ की आदतों से भी काबू में रहती है। छोटी-छोटी बातें बड़ा फर्क डालती हैं।",
+   "tips": [
+    "डॉक्टर की दी दवा समय पर लें, बिना पूछे बंद या कम न करें।",
+    "चीनी, मैदा और मीठे पेय कम करें।",
+    "रोज़ 30 मिनट तेज़ चलें।",
+    "नियमित अंतराल पर शुगर जांच कराएं और रिकॉर्ड रखें।",
+    "पैरों को रोज़ देखें, घाव या छाले हों तो अनदेखा न करें।",
+    "खाली पेट और खाने के बाद की जांच अलग-अलग दर्ज करें।"
+   ],
+   "red": "बहुत ज्यादा प्यास या पेशाब, चक्कर, पसीना और कंपकंपी (शुगर कम होना), धुंधला दिखना, या घाव ठीक न होना हो तो जल्द डॉक्टर से मिलें।"
+  },
+  "en": {
+   "title": "Diabetes (Sugar) Patients: 6 Things to Keep in Mind",
+   "desc": "Simple guidance on diet, medicines, testing and foot care in diabetes.",
+   "icon": "🩸",
+   "intro": "Sugar is controlled not only by medicine but by daily habits. Small steps make a big difference.",
+   "tips": [
+    "Take the medicine prescribed by your doctor on time. Do not stop or reduce it without asking.",
+    "Cut down sugar, refined flour and sweet drinks.",
+    "Walk briskly for 30 minutes every day.",
+    "Get your sugar tested regularly and keep a record.",
+    "Check your feet daily. Do not ignore blisters or wounds.",
+    "Record fasting and after-meal readings separately."
+   ],
+   "red": "Excess thirst or urination, dizziness, sweating and shaking (low sugar), blurred vision, or wounds that do not heal: meet a doctor soon."
+  }
+ },
+ {
+  "slug": "bp-control-ke-aasan-upay",
+  "hi": {
+   "title": "ब्लड प्रेशर (BP) काबू में रखने के आसान उपाय",
+   "desc": "हाई BP में नमक, दवा, जांच और जीवनशैली से जुड़ी सरल सलाह।",
+   "icon": "❤️",
+   "intro": "हाई BP के अक्सर कोई लक्षण नहीं दिखते, इसलिए इसे 'साइलेंट' बीमारी कहते हैं। नियमित जांच ही सबसे अच्छा बचाव है।",
+   "tips": [
+    "खाने में नमक कम रखें, अचार-पापड़ सीमित करें।",
+    "BP की दवा रोज़ एक ही समय पर लें।",
+    "हफ्ते में 5 दिन टहलना या हल्की कसरत करें।",
+    "तंबाकू और गुटखा छोड़ें।",
+    "महीने में कम से कम एक बार BP जांच कराएं। हमारे यहां जांच की सुविधा है।"
+   ],
+   "red": "तेज़ सिरदर्द, सीने में दर्द, सांस फूलना, बोलने में दिक्कत या हाथ-पैर में कमज़ोरी हो तो तुरंत अस्पताल जाएं (108 / 112)।"
+  },
+  "en": {
+   "title": "Easy Ways to Keep Blood Pressure (BP) Under Control",
+   "desc": "Simple advice on salt, medicines, testing and lifestyle for high BP.",
+   "icon": "❤️",
+   "intro": "High BP often shows no symptoms, which is why it is called a silent disease. Regular checks are the best protection.",
+   "tips": [
+    "Reduce salt in food and limit pickles and papad.",
+    "Take BP medicine at the same time every day.",
+    "Walk or do light exercise 5 days a week.",
+    "Quit tobacco and gutkha.",
+    "Get your BP checked at least once a month. We offer BP checks at the shop."
+   ],
+   "red": "Severe headache, chest pain, breathlessness, trouble speaking or weakness in the limbs: go to hospital immediately (108 / 112)."
+  }
+ },
+ {
+  "slug": "bachon-mein-dast-aur-ors",
+  "hi": {
+   "title": "बच्चों में दस्त और उल्टी: ORS कैसे दें",
+   "desc": "छोटे बच्चों में पानी की कमी से बचाव और ORS देने का सही तरीका।",
+   "icon": "👶",
+   "intro": "बच्चों में दस्त-उल्टी में शरीर से पानी तेज़ी से निकलता है। सबसे ज़रूरी चीज़ है पानी की कमी रोकना।",
+   "tips": [
+    "ORS का घोल पैकेट पर लिखे नियम से, साफ उबले-ठंडे पानी में बनाएं।",
+    "थोड़ा-थोड़ा, बार-बार पिलाएं।",
+    "मां का दूध या सामान्य खाना बंद न करें।",
+    "बच्चे को बिना पूछे दस्त रोकने की दवा न दें।",
+    "हाथ साबुन से धोएं, पानी साफ रखें।"
+   ],
+   "red": "बच्चा बहुत सुस्त हो, पेशाब कम हो, मुंह सूखे, आंखें धंसी दिखें, खून के दस्त हों या उल्टी रुके नहीं तो तुरंत डॉक्टर के पास ले जाएं।"
+  },
+  "en": {
+   "title": "Diarrhoea and Vomiting in Children: How to Give ORS",
+   "desc": "How to prevent dehydration in small children and give ORS correctly.",
+   "icon": "👶",
+   "intro": "In diarrhoea and vomiting, children lose water quickly. The most important thing is to prevent dehydration.",
+   "tips": [
+    "Prepare ORS as per the packet instructions, using clean boiled and cooled water.",
+    "Give it little by little, again and again.",
+    "Do not stop breast milk or normal food.",
+    "Do not give anti-diarrhoea medicine without asking.",
+    "Wash hands with soap and keep drinking water clean."
+   ],
+   "red": "If the child is very drowsy, passes less urine, has a dry mouth, sunken eyes, bloody stools or non-stop vomiting, take them to a doctor immediately."
+  }
+ },
+ {
+  "slug": "dawa-lete-samay-dhyan-rakhein",
+  "hi": {
+   "title": "दवा खरीदते और लेते समय ये बातें ज़रूर देखें",
+   "desc": "एक्सपायरी, बिल, पर्ची और दवा रखने के सही तरीके की जानकारी।",
+   "icon": "💊",
+   "intro": "सही दवा सही तरीके से लेना, इलाज का आधा हिस्सा है। कुछ छोटी बातें बड़े नुकसान से बचाती हैं।",
+   "tips": [
+    "एक्सपायरी तारीख और बैच नंबर देखें।",
+    "हमेशा पक्का बिल लें।",
+    "एंटीबायोटिक बिना पर्ची के न लें और कोर्स पूरा करें।",
+    "दवा ठंडी सूखी जगह, बच्चों की पहुंच से दूर रखें।",
+    "दूसरों की पर्ची की दवा खुद न लें।",
+    "पहले से कोई बीमारी या एलर्जी हो तो फार्मासिस्ट को ज़रूर बताएं।"
+   ],
+   "red": "दवा लेने के बाद दाने, सूजन, सांस में तकलीफ या बहुत चक्कर आएं तो दवा रोककर तुरंत डॉक्टर को दिखाएं।"
+  },
+  "en": {
+   "title": "What to Check When Buying and Taking Medicines",
+   "desc": "Guidance on expiry dates, bills, prescriptions and safe storage.",
+   "icon": "💊",
+   "intro": "Taking the right medicine the right way is half the treatment. A few small checks prevent big harm.",
+   "tips": [
+    "Check the expiry date and batch number.",
+    "Always take a proper bill.",
+    "Do not take antibiotics without a prescription, and complete the course.",
+    "Store medicines in a cool, dry place away from children.",
+    "Do not take medicines prescribed for someone else.",
+    "Tell the pharmacist about any existing illness or allergy."
+   ],
+   "red": "Rashes, swelling, breathing trouble or severe dizziness after a medicine: stop it and see a doctor immediately."
+  }
+ }
+]
