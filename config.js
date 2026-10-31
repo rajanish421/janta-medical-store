@@ -1,7 +1,7 @@
 /* ============ CONFIG: yahan apna asli data daalein, baaki website apne aap badal jayegi ============ */
 /* Ye file home page aur health-tips/daily.html dono padhte hain. */
 const CONFIG={
- store:{name:"Janta Medical Store",short:"जनता मेडिकल स्टोर",owner:"DRx Ajit Patel",ownerTitle:"दुकान संचालक" /* yahan qualification bhi likh sakte hain, jaise D.Pharm (Reg. No. ...) */,phone:"9721889885",whatsapp:"919721889885",
+ store:{name:"Janta Medical Store",short:"जनता मेडिकल स्टोर",owner:"DRx Ajit Patel",ownerTitle:"Pharmacist" /* yahan qualification bhi likh sakte hain, jaise D.Pharm (Reg. No. ...) */,phone:"9721889885",whatsapp:"919721889885",
   address:"प्रेमनगर चौराहा, सपहा रोड, कसया, कुशीनगर, उत्तर प्रदेश – 274402",
   hours:"सुबह 8:00 – रात 10:00",openHour:8,closeHour:22,deliveryKm:5,
   email:"",license:"" /* drug licence number yahan likhein, footer mein dikhega */,url:"https://www.example.com",lat:26.7405,lng:83.8884,
